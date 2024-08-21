@@ -169,11 +169,11 @@ The following scripts are to be executed in the subsequent orders:
 <br/><br/>
 
 ### ◘ Requirements
-• matplotlib==3.7.1
-• numpy==1.24.2
-• pandas==2.0.0
-• scikit-learn==1.2.2
-• python_utils @ git+https://github.com/shahriar-rahman/Python-Utils@9c54c9a3204fceaaeeca048096f5004f1c058f99
+* matplotlib==3.7.1
+* numpy==1.24.2
+* pandas==2.0.0
+* scikit-learn==1.2.2
+* python_utils @ git+https://github.com/shahriar-rahman/Python-Utils@9c54c9a3204fceaaeeca048096f5004f1c058f99
 
 <br/><br/>
 
