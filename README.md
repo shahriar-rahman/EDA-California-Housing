@@ -1,9 +1,6 @@
 # Exploratory Data Analysis for California Housing
 An exploratory analysis of the California Housing dataset from Sci-kit Learn module.
 
-![alt text](https://github.com/shahriar-rahman/EDA-California-Housing/blob/main/assets/readme_images/GettyImages_619686566.jpg)\
-'Busy City Street in New York, United States' by Andres Escalona Vergara  |  [Pexels Licensed](https://www.pexels.com/)
-
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/shahriar-rahman/EDA-California-Housing/graphs/commit-activity)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/shahriar-rahman/EDA-California-Housing/blob/main/LICENSE)
 [![GitHub branches](https://badgen.net/github/branches/shahriar-rahman/EDA-California-Housing)](https://github.com/shahriar-rahman/EDA-California-Housing/)
@@ -12,6 +9,9 @@ An exploratory analysis of the California Housing dataset from Sci-kit Learn mod
 [![GitHub issues-open](https://badgen.net/github/open-issues/shahriar-rahman/EDA-California-Housing)](https://github.com/shahriar-rahman/EDA-California-Housing/issues?q=is%3Aopen)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/pull/)
+
+![alt text](https://github.com/shahriar-rahman/EDA-California-Housing/blob/main/assets/readme_images/GettyImages_619686566.jpg)\
+'Busy City Street in New York, United States' by Andres Escalona Vergara  |  [Pexels Licensed](https://www.pexels.com/)
  
 <p align="left">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
