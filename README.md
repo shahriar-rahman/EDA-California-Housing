@@ -152,6 +152,10 @@ memory usage: 1.4 MB
 
 <br/><br/>
 
+![alt text](https://github.com/shahriar-rahman/EDA-California-Housing/blob/main/assets/readme_images/edaFlowchart.png)
+
+<br/><br/>
+
 ### ◘ Execution Sequence
 The following scripts are to be executed in the subsequent orders:
 1. dataset.py
