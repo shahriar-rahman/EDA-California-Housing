@@ -7,8 +7,8 @@ An exploratory analysis of the California Housing dataset from Sci-kit Learn mod
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/shahriar-rahman/EDA-California-Housing/blob/main/LICENSE)
 [![GitHub branches](https://badgen.net/github/branches/shahriar-rahman/EDA-California-Housing)](https://github.com/shahriar-rahman/EDA-California-Housing/)
 [![GitHub commits](https://badgen.net/github/commits/shahriar-rahman/EDA-California-Housing)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/commit/)
-[![GitHub issues](https://img.shields.io/github/issues/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/issues/)
 [![GitHub issues-open](https://badgen.net/github/open-issues/shahriar-rahman/EDA-California-Housing)](https://github.com/shahriar-rahman/EDA-California-Housing/issues?q=is%3Aopen)
+[![GitHub issues](https://img.shields.io/github/issues/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/pull/)
 
