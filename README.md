@@ -74,7 +74,6 @@ memory usage: 1.4 MB
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── external       <- Data from third party sources.
@@ -82,28 +81,22 @@ memory usage: 1.4 MB
 │   ├── processed      <- The final, canonical data sets for modeling.
 │   └── raw            <- The original, immutable data dump.
 │
-├── docs               <- A default mkdocs project; see www.mkdocs.org for details
+├── docs               <- folder containing dataset description and definition.
 │
-├── models             <- Trained and serialized models, model predictions, or model summaries
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
 │                         xai and configuration for tools like black
 │
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+├── reports            <- Generated analysis
 │   └── figures        <- Generated graphics and figures to be used in reporting
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
 │
-├── setup.cfg          <- Configuration file for flake8
 │
-└── xai   <- Source code for use in this project.
+└── california_housing   <- Source code for use in this project.
     │
     ├── __init__.py             <- Makes xai a Python module
     │
@@ -111,18 +104,22 @@ memory usage: 1.4 MB
     │
     ├── dataset.py              <- Scripts to download or generate data
     │
-    ├── features.py             <- Code to create features for modeling
+    ├── feature_exploration.py       <- Code for exploring dataset
     │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
-    │   └── train.py            <- Code to train models
+    ├── feature_cleaning.py       <- Code to clean or simplify dataset
+    │
+    ├── aggregating_statistics.py       <- Code to explore the statistical aspect of the features
+    │
+    ├── feature_transformation          < - Transform features to prepare data
     │
     └── plots.py                <- Code to create visualizations
 ```
 ### ◘ Execution Sequence
-1. After installation, the 'dataset.py' needs to be executed.
-2. Next is 'feature_exploration.py'.
-3. Followed by 'feature_cleaning.py'
+After installation, the following scripts are to be executed in the following orders:
+1. dataset.py
+2. feature_exploration.py
+3. feature_cleaning.py
+4. aggregating_statistics
+5. feature_transformation
 --------
 
