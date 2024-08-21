@@ -70,7 +70,7 @@ dtypes: float64(9)
 memory usage: 1.4 MB
 
 
-## Project Organization
+## ◘ Project Organization
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
@@ -121,5 +121,13 @@ After installation, the following scripts are to be executed in the following or
 3. feature_cleaning.py
 4. aggregating_statistics
 5. feature_transformation
+
+### ◘ Requirements
+matplotlib==3.7.1
+numpy==1.24.2
+pandas==2.0.0
+scikit-learn==1.2.2
+python_utils @ git+https://github.com/shahriar-rahman/Python-Utils@9c54c9a3204fceaaeeca048096f5004f1c058f99
+
 --------
 
