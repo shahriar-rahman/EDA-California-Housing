@@ -40,7 +40,7 @@ columns may take surprisingly
 
 ## • Data Dictionary
 | features | dtype | mean value | standard deviation | min | max | 
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: | 
 | medinc | float64 | 3.9 | 1.9 | 0.5 | 15.0 | 
 | houseage | float64 | 28.6 | 12.6 | 1.0 | 52.0 | 
 | averooms | float64 | 5.4 | 2.5 | 0.8 | 141.9 | 
