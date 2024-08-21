@@ -29,7 +29,7 @@ An exploratory analysis of the California Housing dataset from Sci-kit Learn mod
 <br/>
 
 ### ◘ Data Definition
- attributes and the target
+ Attributes and the target
 
     :Attribute Information:
         - MedInc        median income in block group
@@ -142,15 +142,15 @@ memory usage: 1.4 MB
 <br/><br/>
 
 ### ◘ Methodologies & Technologies applied
-• Diagnose and fix structural errors
-• Check and Clean data
-• Address duplicates & outliers
-• Logical feature amalgamation to construct a unique variable
-• Univariate inspection
-• Bivariate inspection
-• Multivariate Inspection
-• Feature correlations
-• Seaborn & Matplotplib visualizations
+* Diagnose and fix structural errors
+* Check and Clean data
+* Address duplicates & outliers
+* Logical feature amalgamation to construct a unique variable
+* Univariate inspection
+* Bivariate inspection
+* Multivariate Inspection
+* Feature correlations
+* Seaborn & Matplotplib visualizations
 
 <br/><br/>
 
