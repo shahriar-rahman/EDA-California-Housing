@@ -6,8 +6,10 @@
 
 An exploratory analysis of the California Housing dataset from Sci-kit Learn.
 
+<br/>
 
-## • Data Definition
+## Dataset Acquisition
+### ◘ Data definition
  attributes and the target
 
     :Attribute Information:
@@ -37,8 +39,9 @@ A household is a group of people residing within a home. Since the average
 number of rooms and bedrooms in this dataset are provided per household, these
 columns may take surprisingly
 
+<br/><br/>
 
-## • Data Dictionary
+### ◘ Data dictionary
 | features | dtype | mean value | standard deviation | min | max | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | medinc | float64 | 3.9 | 1.9 | 0.5 | 15.0 | 
@@ -51,8 +54,9 @@ columns may take surprisingly
 | longitude | float64 | -119.6 | 2.0 | -124.3 | -114.3 | 
 | medhouseval | float64 | 2.1 | 1.2 | 0.1 | 5.0 | 
 
+<br/><br/>
 
-## • Dataset Information
+### ◘ Dataset information
 RangeIndex: 20640 entries, 0 to 20639
 Data columns (total 9 columns):
 | Index | Column | Non-Null Count | Dtype |
@@ -69,8 +73,9 @@ Data columns (total 9 columns):
 dtypes: float64(9)
 memory usage: 1.4 MB
 
+<br/><br/>
 
-## ◘ Project Organization
+## Project Organization
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
@@ -114,20 +119,101 @@ memory usage: 1.4 MB
     │
     └── plots.py                <- Code to create visualizations
 ```
-### ◘ Execution Sequence
-After installation, the following scripts are to be executed in the following orders:
+
+<br/><br/>
+
+## Project Approach
+### ◘ Methodologies & technologies applied
+• Diagnose and fix structural errors
+• Check and Clean data
+• Address duplicates & outliers
+• Logical feature amalgamation to construct a unique variable
+• Univariate inspection
+• Bivariate inspection
+• Multivariate Inspection
+• Feature correlations
+• Seaborn & Matplotplib visualizations
+
+<br/><br/>
+
+### ◘ Execution sequence
+The following scripts are to be executed in the subsequent orders:
 1. dataset.py
 2. feature_exploration.py
 3. feature_cleaning.py
 4. aggregating_statistics
 5. feature_transformation
 
+<br/><br/>
+
+## Installation
 ### ◘ Requirements
-matplotlib==3.7.1
-numpy==1.24.2
-pandas==2.0.0
-scikit-learn==1.2.2
-python_utils @ git+https://github.com/shahriar-rahman/Python-Utils@9c54c9a3204fceaaeeca048096f5004f1c058f99
+• matplotlib==3.7.1
+• numpy==1.24.2
+• pandas==2.0.0
+• scikit-learn==1.2.2
+• python_utils @ git+https://github.com/shahriar-rahman/Python-Utils@9c54c9a3204fceaaeeca048096f5004f1c058f99
+
+<br/><br/>
+
+### ◘ Dependency commands (using pip)
+To install any modules, type the following commands:
+1. For Pandas, run:
+```
+pip install pandas                                                  
+```
+2. To install missingNo:
+```
+pip install missingno                                                  
+```
+3. Matplotlib can be installed by running the following command:
+```
+pip install matplotlib
+```
+4. For scikit-learn:
+```
+pip install scikit-learn
+```
+5. Lastly, for seaborn:
+```
+pip install seaborn
+```
+
+<br/><br/>
+
+### ◘ Package imports
+To *import* the dependencies, simply open the preferred IDE or Notebook: 
+1. For Pandas, run the following command:
+```
+import pandas as pd                                   
+```
+2. To use missingno, run:
+```
+import missingno as msn                                      
+```  
+3. Import matplotlib using:
+```
+import matplotlib.pyplot as plt                                     
+```
+4. Scikit-learn can be introduced by:
+```
+import sklearn
+```
+5. Seaborn can be accessed by:
+```
+import seaborn as sns                                      
+```
+
+<br/><br/>
+
+### ◘ Supplementary resources
+* https://pypi.org/project/pandas/
+* https://pypi.org/project/matplotlib/
+* https://pypi.org/project/seaborn/
+* https://pypi.org/project/missingno/
+* https://pypi.org/project/scikit-learn/
+
+<br/><br/>
 
 --------
 
