@@ -4,7 +4,7 @@ import typer
 from loguru import logger
 from tqdm import tqdm
 
-from xai.config import MODELS_DIR, PROCESSED_DATA_DIR
+from eda_california_housing.config import MODELS_DIR, PROCESSED_DATA_DIR
 
 app = typer.Typer()
 

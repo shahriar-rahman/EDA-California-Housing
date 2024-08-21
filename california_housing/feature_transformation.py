@@ -4,7 +4,7 @@ from sklearn import preprocessing
 from plots import Visualize
 input_path = "../dataset/interim/california_housing.csv"
 save_path = "../reports/figures/"
-output_path = "../dataset/processed/california_housing.csv"
+output_path = "../dataset/processed/california_housing_"
 
 
 def show_on_console(text, code):
@@ -25,7 +25,7 @@ def robust_scaling(df, new_columns):
     print(df_robust.sample(5))
 
     # Save the processed dataset
-    cu.save_df(df=df, ext_type='csv', path=output_path)
+    cu.save_df(df=df_robust, ext_type='csv', path=output_path+"robust.csv")
     return df_robust
 
 
@@ -38,7 +38,7 @@ def standardization(df, new_columns):
     print(df_standard.sample(5))
 
     # Save the processed dataset
-    cu.save_df(df=df, ext_type='csv', path=output_path)
+    cu.save_df(df=df_standard, ext_type='csv', path=output_path+"std.csv")
     return df_standard
 
 
@@ -51,7 +51,7 @@ def min_max_scaling(df, new_columns):
     df_minmax.sample(5)
 
     # Save the processed dataset
-    cu.save_df(df=df, ext_type='csv', path=output_path)
+    cu.save_df(df=df_minmax, ext_type='csv', path=output_path+"min_max.csv")
     return df_minmax
 
 
@@ -71,23 +71,20 @@ class FeatureTransformation:
         show_on_console("longitude data type:", df['longitude'].dtype)
 
         # Transform features to round data to reduce feature complexity
-        df['latitude'] = round(df['latitude'], 1)
-        df['latitude'] = round(df['latitude'], 1)
+        df['latitude'] = round(df['latitude'], 2)
+        df['longitude'] = round(df['longitude'], 2)
         show_on_console("latitude:", df['latitude'].unique())
-        show_on_console("longitude:", df['latitude'].unique())
+        show_on_console("longitude:", df['longitude'].unique())
 
-        # The coordinate value will add bias since it is a numerical representation instead of being a value
-        # Therefore, one hot encoding is a safe option
-        df_encoded = pd.get_dummies(df, columns=['latitude', 'longitude'])
-        print(df_encoded.sample(5).T)
-
-        new_columns = df_encoded.columns.values.tolist()
-        print(new_columns)
+        # A popular technique is to remove latitude & longitude.
+        # However, truncating might lead to a loss of valuable information,
+        # especially if the geographic resolution is important for the model's predictions.
+        # Therefore, a safe option is to keep the aforementioned features and use Feature Scaling.
 
         # Apply different scaling procedures
-        df_robust = robust_scaling(df_encoded, new_columns)
-        df_standard = standardization(df_encoded, new_columns)
-        df_minmax = min_max_scaling(df_encoded, new_columns)
+        df_robust = robust_scaling(df, df.columns)
+        df_standard = standardization(df, df.columns)
+        df_minmax = min_max_scaling(df, df.columns)
 
         # Compare the effect of feature values for each scaler
         super_title = "Robust, Standard, and Min-Max Scaler distribution"
