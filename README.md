@@ -24,7 +24,7 @@ An exploratory analysis of the California Housing dataset from Sci-kit Learn mod
 
 <br/>
 
-### ◘ Data definition
+### ◘ Data Definition
  attributes and the target
 
     :Attribute Information:
@@ -56,7 +56,7 @@ columns may take surprisingly
 
 <br/><br/>
 
-### ◘ Data dictionary
+### ◘ Data Dictionary
 | features | dtype | mean value | standard deviation | min | max | 
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | medinc | float64 | 3.9 | 1.9 | 0.5 | 15.0 | 
@@ -71,7 +71,7 @@ columns may take surprisingly
 
 <br/><br/>
 
-### ◘ Dataset information
+### ◘ Dataset Information
 RangeIndex: 20640 entries, 0 to 20639
 Data columns (total 9 columns):
 | Index | Column | Non-Null Count | Dtype |
@@ -90,7 +90,7 @@ memory usage: 1.4 MB
 
 <br/><br/>
 
-### ◘ Project organization
+### ◘ Project Organization
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
@@ -137,7 +137,7 @@ memory usage: 1.4 MB
 
 <br/><br/>
 
-### ◘ Methodologies & technologies applied
+### ◘ Methodologies & Technologies applied
 • Diagnose and fix structural errors
 • Check and Clean data
 • Address duplicates & outliers
@@ -150,7 +150,7 @@ memory usage: 1.4 MB
 
 <br/><br/>
 
-### ◘ Execution sequence
+### ◘ Execution Sequence
 The following scripts are to be executed in the subsequent orders:
 1. dataset.py
 2. feature_exploration.py
@@ -169,7 +169,7 @@ The following scripts are to be executed in the subsequent orders:
 
 <br/><br/>
 
-### ◘ Dependency commands (using pip)
+### ◘ Dependency Commands (using pip)
 To install any modules, type the following commands:
 1. For Pandas, run:
 ```
@@ -194,7 +194,7 @@ pip install seaborn
 
 <br/><br/>
 
-### ◘ Package imports
+### ◘ Package Imports
 To *import* the dependencies, simply open the preferred IDE or Notebook: 
 1. For Pandas, run the following command:
 ```
@@ -219,7 +219,7 @@ import seaborn as sns
 
 <br/><br/>
 
-### ◘ Supplementary resources
+### ◘ Supplementary Resources
 * https://pypi.org/project/pandas/
 * https://pypi.org/project/matplotlib/
 * https://pypi.org/project/seaborn/
