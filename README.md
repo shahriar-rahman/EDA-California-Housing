@@ -3,6 +3,8 @@ An exploratory analysis of the California Housing dataset from Sci-kit Learn mod
 
 <br/>
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/shahriar-rahman/EDA-California-Housing/graphs/commit-activity)
+
 <p align="left">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
