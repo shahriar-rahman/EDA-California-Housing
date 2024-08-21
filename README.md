@@ -8,6 +8,10 @@ An exploratory analysis of the California Housing dataset from Sci-kit Learn mod
 [![GitHub branches](https://badgen.net/github/branches/shahriar-rahman/EDA-California-Housing)](https://github.com/shahriar-rahman/EDA-California-Housing/)
 [![GitHub commits](https://badgen.net/github/commits/shahriar-rahman/EDA-California-Housing)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/commit/)
 [![GitHub issues](https://img.shields.io/github/issues/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/issues/)
+[![GitHub issues-open](https://badgen.net/github/open-issues/shahriar-rahman/EDA-California-Housing)](https://github.com/shahriar-rahman/EDA-California-Housing/issues?q=is%3Aopen)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/pull/)
+[![Naereen's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahriar-rahman&theme=react-dark)](https://github.com/shahriar-rahman/github-readme-activity-graph)
  
 <p align="left">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
