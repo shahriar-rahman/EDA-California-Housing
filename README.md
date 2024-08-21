@@ -1,4 +1,5 @@
 # Exploratory Data Analysis for California Housing
+An exploratory analysis of the California Housing dataset from Sci-kit Learn module.
 
 <br/>
 
@@ -10,10 +11,6 @@
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </p>
-
-<br/>
-
-An exploratory analysis of the California Housing dataset from Sci-kit Learn module
 
 <br/>
 
