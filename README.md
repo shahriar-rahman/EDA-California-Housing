@@ -1,14 +1,13 @@
-# ◘ Explainable Artificial Intelligence (XAI)
+# Exploratory Data Analysis for California Housing
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-An exploratory analysis of the California Housing dataset from Sci-kit Learn.
+An exploratory analysis of the California Housing dataset from Sci-kit Learn module
 
 <br/>
 
-## Dataset Acquisition
 ### ◘ Data definition
  attributes and the target
 
@@ -75,7 +74,7 @@ memory usage: 1.4 MB
 
 <br/><br/>
 
-## Project Organization
+### ◘ Project organization
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
@@ -122,7 +121,6 @@ memory usage: 1.4 MB
 
 <br/><br/>
 
-## Project Approach
 ### ◘ Methodologies & technologies applied
 • Diagnose and fix structural errors
 • Check and Clean data
@@ -146,7 +144,6 @@ The following scripts are to be executed in the subsequent orders:
 
 <br/><br/>
 
-## Installation
 ### ◘ Requirements
 • matplotlib==3.7.1
 • numpy==1.24.2
