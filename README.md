@@ -4,6 +4,8 @@ An exploratory analysis of the California Housing dataset from Sci-kit Learn mod
 ![alt text](https://github.com/shahriar-rahman/EDA-California-Housing/blob/main/assets/readme_images/GettyImages_619686566.jpg)\
 ['Busy City Street in New York, United States' by Andres Escalona Vergara](https://www.pexels.com/photo/busy-city-street-in-new-york-united-states-9736279/)  |  [Pexels Licensed](https://www.pexels.com/)
 
+<img src="https://www.pexels.com/photo/busy-city-street-in-new-york-united-states-9736279?style=for-the-badge&logo=python&logoColor=blue" />
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/shahriar-rahman/EDA-California-Housing/graphs/commit-activity)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/shahriar-rahman/EDA-California-Housing/blob/main/LICENSE)
 [![GitHub branches](https://badgen.net/github/branches/shahriar-rahman/EDA-California-Housing)](https://github.com/shahriar-rahman/EDA-California-Housing/)
