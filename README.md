@@ -26,6 +26,7 @@ An exploratory analysis of the California Housing dataset from Sci-kit Learn mod
 <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?style=for-the-badge&logo=cookiecutter" />
 </p>
 
+<br/>
 
 ### ◘ Data Definition
  attributes and the target
