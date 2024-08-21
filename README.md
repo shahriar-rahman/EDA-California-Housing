@@ -12,6 +12,8 @@ An exploratory analysis of the California Housing dataset from Sci-kit Learn mod
 
 ![alt text](https://github.com/shahriar-rahman/EDA-California-Housing/blob/main/assets/readme_images/GettyImages_619686566.jpg)\
 'Busy City Street in New York, United States' by Andres Escalona Vergara  |  [Pexels Licensed](https://www.pexels.com/)
+
+<br/>
  
 <p align="left">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
