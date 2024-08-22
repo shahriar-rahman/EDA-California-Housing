@@ -3,15 +3,6 @@ An exploratory analysis of the California Housing dataset from Sci-kit Learn mod
 
 <br/>
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/shahriar-rahman/EDA-California-Housing/graphs/commit-activity)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/shahriar-rahman/EDA-California-Housing/blob/main/LICENSE)
-[![GitHub branches](https://badgen.net/github/branches/shahriar-rahman/EDA-California-Housing)](https://github.com/shahriar-rahman/EDA-California-Housing/)
-[![GitHub commits](https://badgen.net/github/commits/shahriar-rahman/EDA-California-Housing)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/commit/)
-[![GitHub issues-open](https://badgen.net/github/open-issues/shahriar-rahman/EDA-California-Housing)](https://github.com/shahriar-rahman/EDA-California-Housing/issues?q=is%3Aopen)
-[![GitHub issues](https://img.shields.io/github/issues/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/issues/)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/pull/)
-
 ![alt text](https://github.com/shahriar-rahman/EDA-California-Housing/blob/main/assets/readme_images/GettyImages_619686566.jpg)\
 'Busy City Street in New York, United States' by Andres Escalona Vergara  |  [Pexels Licensed](https://www.pexels.com/)
 
@@ -25,6 +16,16 @@ An exploratory analysis of the California Housing dataset from Sci-kit Learn mod
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?style=for-the-badge&logo=cookiecutter" />
 </p>
+
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/shahriar-rahman/EDA-California-Housing/graphs/commit-activity)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/shahriar-rahman/EDA-California-Housing/blob/main/LICENSE)
+[![GitHub branches](https://badgen.net/github/branches/shahriar-rahman/EDA-California-Housing)](https://github.com/shahriar-rahman/EDA-California-Housing/)
+[![GitHub commits](https://badgen.net/github/commits/shahriar-rahman/EDA-California-Housing)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/commit/)
+[![GitHub issues-open](https://badgen.net/github/open-issues/shahriar-rahman/EDA-California-Housing)](https://github.com/shahriar-rahman/EDA-California-Housing/issues?q=is%3Aopen)
+[![GitHub issues](https://img.shields.io/github/issues/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/shahriar-rahman/EDA-California-Housing.svg)](https://GitHub.com/shahriar-rahman/EDA-California-Housing/pull/)
 
 <br/>
 
