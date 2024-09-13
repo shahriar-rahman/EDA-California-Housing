@@ -1,5 +1,5 @@
 # Exploratory Data Analysis for California Housing
-An exploratory analysis of the California Housing dataset from Sci-kit Learn module. 
+An exploratory analysis of the California Housing dataset from Sci-kit Learn module.  
 
 <br/>
 
